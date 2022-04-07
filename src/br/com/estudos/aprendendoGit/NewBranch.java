@@ -1,4 +1,4 @@
-package aprendendoGit;
+package br.com.estudos.aprendendoGit;
 
 public class NewBranch {
 public static void main(String[] args) {

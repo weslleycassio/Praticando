@@ -1,4 +1,4 @@
-package aprendendoGit;
+package br.com.estudos.aprendendoGit;
 
 public class AprendendoGit {
 
